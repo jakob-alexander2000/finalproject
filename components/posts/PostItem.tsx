@@ -57,7 +57,7 @@ const PostItem: React.FC<PostItemProps> = ({ data = {}, userId }) => {
         border-neutral-800 
         p-5 
         cursor-pointer 
-        hover:bg-gray-300
+        hover:bg-slate-200
         transition
       ">
       <div className="flex flex-row items-start gap-3">
